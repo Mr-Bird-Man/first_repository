@@ -9,3 +9,7 @@ video{
 .title{
   color: "red";
 }
+#profile{
+  width: 50%;
+  height: 50%;
+}
