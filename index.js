@@ -3,7 +3,11 @@ const app = express();
 const port = 3000;
 
 app.get("/", (req, res) => {
-  res.sendFile(__dirname + '/home-page.html');
+  res.sendFile(__dirname + '/index.html');
+});
+
+app.get("/home", (req, res) => {
+  res.sendFile(__dirname + '/index.html');
 });
 
 app.get("/our-school", (req, res) => {
