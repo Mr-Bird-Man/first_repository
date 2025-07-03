@@ -6,7 +6,6 @@ video{
   width: 70%;
   height: 70%
 }
-h1{
-  background-color: "red";
-  color: "white";
+.title{
+  color: "red";
 }
