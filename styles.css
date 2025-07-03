@@ -1,15 +1,15 @@
-.image{
+.image {
   width: 50%;
   height: 50%;
 }
-video{
+video {
   width: 70%;
   height: 70%
 }
-.title{
+.title {
   color: "red";
 }
-#profile{
+#profile {
   width: 50%;
   height: 50%;
   position: absolute;
